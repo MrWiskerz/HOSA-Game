@@ -7,7 +7,7 @@ the purpose to stimulate the visual sensory of autistic kids. Thanks to the foll
 - Siddhant Jain(nytron88): Programmer
 - Akhilesh Vattumilli(akhileshvattumilli): Programmer
 - David Lungu(HeatedBread): Programmer
-- Tejas V: Junior Programmer
+- Tejas V(Nalgonda-tiger): Junior Programmer
 - Anand Patil(AnandPatil1): Lead Graphic Designer & Animator
 - Srikar Guntaka(SrikarGuntaka): Graphic Designer & Animator
 
